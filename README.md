@@ -1,5 +1,7 @@
 **USAGE**:
 when opening the application you will see this:
+
+
 ![image](https://github.com/user-attachments/assets/198c1f2c-f13f-4949-97e3-f160e07b2c1e)
 
 Option 1: Create New Key, this will generate a .key encryption key file
@@ -9,7 +11,11 @@ Option 4: Load Existing Password File: this will load your password file of your
 
 
 Box [Site:]: this is the name of the password you will be storing, example:
+
+
 ![image](https://github.com/user-attachments/assets/57bc85d2-8c88-4839-9da8-04593c0b69a6)
+
+
 Box [Password:]: this is your password you are trying to store as show in the example above ⬆
 
 Getting a Password:
